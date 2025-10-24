@@ -13,12 +13,5 @@ service/.venv/
 .DS_Store
 *.swp
 
-# Model artifacts (if any later)
-models/
-.checkpoints/
-
-# Node (if you add Frontend later)
+# Node (if you add a frontend later)
 node_modules/
-
-# Notebooks checkpoints (if any)
-.ipynb_checkpoints/
