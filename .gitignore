@@ -1,0 +1,24 @@
+# Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual envs
+.venv/
+venv/
+service/.venv/
+
+# OS/editor junk
+.DS_Store
+*.swp
+
+# Model artifacts (if any later)
+models/
+.checkpoints/
+
+# Node (if you add Frontend later)
+node_modules/
+
+# Notebooks checkpoints (if any)
+.ipynb_checkpoints/
